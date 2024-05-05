@@ -1,0 +1,4 @@
+project*
+/slides/
+.DS_Store
+/.vscode/
